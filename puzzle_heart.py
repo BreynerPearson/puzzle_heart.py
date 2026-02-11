@@ -191,7 +191,7 @@ t.end_fill()
 
 t.color("Black")
 go(300, -250)
-t.write("Eres la pieza que faltaba en mi vida", \
+t.write("Eres la pieza que faltaba en mi vida, Osmel", \
         False, "right", ("Bradley Hand ITC", 30, \
                          "bold"))
 
